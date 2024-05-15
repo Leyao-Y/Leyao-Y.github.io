@@ -1,0 +1,20 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.header, .navbar, .row {
+    text-align: center;
+}
+
+.side, .main {
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+}
+
+.footer {
+    text-align: center;
+}
+
+/* Add other styles as needed */
